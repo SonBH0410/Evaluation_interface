@@ -1,0 +1,5 @@
+12/07/23	11:17:01	Một người đàn ông mặc áo đỏ, quần xanh, tất trắng	10
+
+Độ chính xác = 0
+7	
+Độ chính xác = 0.1

@@ -1,0 +1,3 @@
+12/07/23	11:21:40	Một người đàn ông mặc áo phông màu trắng	10
+2	
+Độ chính xác = 0.1

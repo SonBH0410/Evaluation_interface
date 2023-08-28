@@ -1,0 +1,5 @@
+12/07/23	11:15:03	Một người phụ nữ mặc một chiếc áo màu trắng, quần màu xanh, chân đi giày thể thao màu trắng	10
+
+Độ chính xác = 0
+2	3	7	
+Độ chính xác = 0.3
